@@ -29,11 +29,11 @@ except Exception as e:
 
     print(f"Failed to set execute permission: {e}")
     
-TOKEN = 'BOTTOKENREPLACE'
+TOKEN = '7643617660:AAFQa6EotE_K8rk7wUWAVrm1zb-ZzF81lrA'
 MONGO_URI = 'mongodb+srv://VIKASH:BadnamBadshah@cluster0.jv9he.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true'
-FORWARD_CHANNEL_ID = -1002226609740
-CHANNEL_ID = -1002226609740
-error_channel_id = -1002226609740
+FORWARD_CHANNEL_ID = -
+CHANNEL_ID = -
+error_channel_id = -
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
